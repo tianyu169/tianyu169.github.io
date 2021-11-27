@@ -1,0 +1,13 @@
+[
+	{
+		"name": "夜曲",
+		"artist": "周杰伦",
+		"url": "/medias/music/yequ.mp3",
+		"cover": "/medias/music/avatars/yequ.jpg"
+	},{
+		"name": "来自天堂的魔鬼",
+		"artist": "邓紫棋",
+		"url": "/medias/music/tiantangdemogui.mp3",
+		"cover": "/medias/music/avatars/tiantangdemogui.jpg"
+	}
+]
